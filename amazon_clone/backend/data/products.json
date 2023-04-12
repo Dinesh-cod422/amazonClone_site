@@ -1,0 +1,396 @@
+[
+    {
+        "name": "Samsung Galaxy S23 Ultra 5G mobile phone",
+        "price": 759,
+        "description": "Samsung Galaxy S23 Ultra 5G (Cream, 12GB, 1TB Storage)",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/sam-1.jpg"
+            },
+            {
+                "image": "/images/products/sam-2.jpg"
+            },
+            {
+                "image": "/images/products/sam-3.jpg"
+            },
+            {
+                "image": "/images/products/sam-4.jpg"
+            },
+            {
+                "image": "/images/products/sam-5.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Dell Vostro 3510 Laptop, Intel Pentium Gold 7505, 8GB & 256GB SSD laptop",
+        "price": 449,
+        "description": "Dell Vostro 3510 Laptop, Intel Pentium Gold 7505, 8GB & 256GB SSD, 15.6 (39.62Cms) FHD WVA AG, Win 11 + MSO'21, Carbon Color (ICC-D585046WIN8, 1.69KGs).",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/dell.jpg"
+            },
+            {
+                "image": "/images/products/dell-4.jpg"
+            },
+            {
+                "image": "/images/products/dell-1.jpg"
+            },
+            {
+                "image": "/images/products/dell-2.jpg"
+            },
+            {
+                "image": "/images/products/dell-3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Fire-Boltt Ninja Call Pro Plus 1.83 Smart Watch",
+        "price": 899,
+        "description": "Fire-Boltt Ninja Call Pro Plus 1.83 Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240*280 Pixel High Resolution",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/firebolltt-1.jpg"
+            },
+            {
+                "image": "/images/products/firebolltt-2.jpg"
+            },
+            {
+                "image": "/images/products/firebolltt-3.jpg"
+            },
+            {
+                "image": "/images/products/firebolltt-4.jpg"
+            },
+            {
+                "image": "/images/products/firebolltt-5.jpg"
+            }
+        ],
+        "category": "Accesssories",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "HP 15s,11th Gen Intel Core i3-1115G4 8GB RAM/512GB laptop",
+        "price": 559,
+        "description": "HP 15s,11th Gen Intel Core i3-1115G4 8GB RAM/512GB SSD 15.6-inch(39.6 cm) Micro-Edge Anti-Glare FHD Laptop/Alexa Built-in/Win 11/Intel UHD Graphics/Dual Speakers/ MS Office 2021/1.69 Kg, 15s-fq2673TU.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/hp-laptop.jpg"
+            },
+            {
+                "image": "/images/products/hp-laptop-1.jpg"
+            },
+            {
+                "image": "/images/products/hp-laptop-2.jpg"
+            },
+            {
+                "image": "/images/products/hp-laptop-5.jpg"
+            },
+            {
+                "image": "/images/products/hp-laptop-3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Sparx Men's Running Shoes",
+        "price": 99,
+        "description": "Sparx Men's Running Shoes.Made to Last Long, Elegant Packaging, Perfect Gifting Option, Zero compromise on quality",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/spax-shoe-1.jpg"
+            },
+            {
+                "image": "/images/products/spax-shoe-2.jpg"
+            },
+            {
+                "image": "/images/products/spax-shoe-3.jpg"
+            },
+            {
+                "image": "/images/products/spax-shoe-4.jpg"
+            },
+            {
+                "image": "/images/products/spax-shoe-5.jpg"
+            }
+        ],
+        "category": "Clothes/Shoes",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Lenovo ThinkBook 15 AMD Ryzen 5 5500U 15.6 laptop",
+        "price": 799,
+        "description": "Lenovo ThinkBook 15 AMD Ryzen 5 5500U 15.6 (39.62cm) FHD 220 Nits Antiglare Thin and Light Laptop (16GB/512GB SSD/Windows 11/MS Office/Mineral Grey/1.7 Kg), 21A4A09RIH.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/lenovo.jpg"
+            },
+            {
+                "image": "/images/products/lenovo-1.jpg"
+            },
+            {
+                "image": "/images/products/lenovo-2.jpg"
+            },
+            {
+                "image": "/images/products/lenovo-3.jpg"
+            },
+            {
+                "image": "/images/products/lenovo-4.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Apple 2020 MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm laptop",
+        "price": 959,
+        "description": "Apple 2020 MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Silver.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/apple-laptop.jpg"
+            },
+            {
+                "image": "/images/products/apple-laptop-3.jpg"
+            },
+            {
+                "image": "/images/products/apple-laptop-4.jpg"
+            },
+            {
+                "image": "/images/products/apple-laptop-5.jpg"
+            },
+            {
+                "image": "/images/products/apple-laptop-6.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Oppo Reno 6 Pro 5G (Aurora, 12GB RAM, 256GB Storage), mobile phones",
+        "price": 421,
+        "description": "Oppo Reno 6 Pro 5G (Aurora, 12GB RAM, 256GB Storage), Medium (CPH2249).",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/oppo-reno-1.jpg"
+            },
+            {
+                "image": "/images/products/oppo-reno-2.jpg"
+            },
+            {
+                "image": "/images/products/oppo-reno-3.jpg"
+            },
+            {
+                "image": "/images/products/oppo-reno-1.jpg"
+            },
+            {
+                "image": "/images/products/oppo-reno-2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": " Vivo X60 Pro (Midnight Black, 12GB RAM, 256GB Storage) mobile phones",
+        "price": 345,
+        "description": " Vivo X60 Pro (Midnight Black, 12GB RAM, 256GB Storage).",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/vivo-x60-1.jpg"
+            },
+            {
+                "image": "/images/products/vivo-x60-2.jpg"
+            },
+            {
+                "image": "/images/products/vivo-x60-3.jpg"
+            },
+            {
+                "image": "/images/products/vivo-x60-4.jpg"
+            },
+            {
+                "image": "/images/products/vivo-x60-5.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Mi 11X Cosmic Black 6GB RAM 128GB ROM Storage 5G mobile phones",
+        "price": 299.67,
+        "description": "Mi 11X Cosmic Black 6GB RAM 128GB ROM Storage 5G | SD 870 | DisplayMate A+ rated 120Hz E4 AMOLED | 48MP Sony sensor.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/mi-x11-1.jpg"
+            },
+            {
+                "image": "/images/products/mi-x11-2.jpg"
+            },
+            {
+                "image": "/images/products/mi-x11-3.jpg"
+            },
+            {
+                "image": "/images/products/mi-x11-4.jpg"
+            },
+            {
+                "image": "/images/products/mi-x11-5.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "realme GT 2 Qualcomm Snapdragon 888 Processor mobile phones",
+        "price": 445,
+        "description": "realme GT 2 (Paper Green 8GB RAM+128GB Storage) Qualcomm Snapdragon 888 Processor | 50MP Camera",
+        "ratings": 4,
+        "images": [
+            {
+                "image": "/images/products/realme-gt2-1.jpg"
+            },
+            {
+                "image": "/images/products/realme-gt2-2.jpg"
+            },
+            {
+                "image": "/images/products/realme-gt2-3.jpg"
+            },
+            {
+                "image": "/images/products/realme-gt2-4.jpg"
+            },
+            {
+                "image": "/images/products/realme-gt2-5.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "iQOO Neo 6 5G (Dark Nova, 8GB RAM, 128GB Storage) mobile phones",
+        "price": 390.67,
+        "description": "iQOO Neo 6 5G (Dark Nova, 8GB RAM, 128GB Storage) | Only Snapdragon 870 in The Segment | 50% Charge in Just 12 Mins | 90 FPS Gaming Support*",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/iqoo-neo6-1.jpg"
+            },
+            {
+                "image": "/images/products/iqoo-neo6-2.jpg"
+            },
+            {
+                "image": "/images/products/iqoo-neo6-3.jpg"
+            },
+            {
+                "image": "/images/products/iqoo-neo6-4.jpg"
+            },
+            {
+                "image": "/images/products/iqoo-neo6-5.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "OnePlus 10 Pro 5G 256GB Storage mobile phones",
+        "price": 550.67,
+        "description": "OnePlus 10 Pro 5G (Emerald Forest, 12GB RAM, 256GB Storage).",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/oneplus-10pro-1.jpg"
+            },
+            {
+                "image": "/images/products/oneplus-10pro-2.jpg"
+            },
+            {
+                "image": "/images/products/oneplus-10pro-3.jpg"
+            },
+            {
+                "image": "/images/products/oneplus-10pro-4.jpg"
+            },
+            {
+                "image": "/images/products/oneplus-10pro-5.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPhone 14 Pro 256GB Deep Purple mobile phones",
+        "price": 899,
+        "description": "Apple iPhone 14 Pro 256GB Deep Purple",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/apple-phone14pro-1.jpg"
+            },
+            {
+                "image": "/images/products/apple-phone14pro-2.jpg"
+            },
+            {
+                "image": "/images/products/apple-phone14pro-3.jpg"
+            },
+            {
+                "image": "/images/products/apple-phone14pro-4.jpg"
+            },
+            {
+                "image": "/images/products/apple-phone14pro-5.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    }
+    
+]
+ 
